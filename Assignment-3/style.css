@@ -1,0 +1,28 @@
+.navbar {
+   margin-right: 10px;
+   font-size: 20px; 
+   padding: 5px;  
+}
+.img {
+    height: 400px;
+    margin-left: 500px;
+}
+
+.info {
+    font-size: 20px;
+    padding: 5px;
+}
+.video {
+    margin-left: 500px;
+}
+
+.img2 {
+    height: 500px;
+    margin-left: 300px;
+}
+.footer {
+    font-size: 20px;
+    padding: 5px;
+    margin-left: 600px;
+}
+
